@@ -11,7 +11,15 @@ def sentiment_analyzer(text_to_analyze):  # Define a function named sentiment_an
     
     formatted_response = json.loads(response.text)
 
-    label = formatted_response['documentSentiment']['label']
-    score = formatted_response['documentSentiment']['score']
+    # If the response status code is 200, extract the label and score 
+    if response.status_code == 200:
+        label = formatted_response['documentSentiment']['label']
+        score = formatted_response['documentSentiment']['score']
 
+    # If the response code is 500, set label and score to None
+    elif response.status_code == 500:
+        label = None
+        score = None
+
+    # Return a formatted string with the sentiment label and score
     return {'label': label, 'score': score}
