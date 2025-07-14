@@ -1,7 +1,5 @@
 import requests  # Import the requests library to handle HTTP requests
 import json
-import requests
-import json
 
 def sentiment_analyzer(text_to_analyze):  # Define a function named sentiment_analyzer that takes a string input (text_to_analyse)
     url = 'https://sn-watson-sentiment-bert.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/SentimentPredict'  # URL of the sentiment analysis service
