@@ -15,5 +15,8 @@
 #### Features - 
 | Feature | Description |
 | ----------- | ----------- |
-| RESTful | Title |
-| Error Handling     | Text |
+| BERT | Sentiment analysis powered by BERT via WAtson NLP API |
+| Flask     | Flasked-based web interface for easy interaction |
+| Real-time Feedback     | Returns real-time feedback with sentiment label and confidence score.. |
+| Error Handling     | User friendly error handling |
+| Pylint    | Pylint-linted codebase adhering to PEP8 |
