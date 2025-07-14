@@ -1,5 +1,5 @@
 # NC Moodmapper- powered by BERT
-### 🧱 How To Use
+### - 🧱 How To Use -
 1. Clone Repository
 2. Install required libraries using requirements.txt
     * `pip install -r requirements.txt`
