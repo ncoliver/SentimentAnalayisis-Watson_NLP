@@ -8,4 +8,4 @@
 #### - 📸 Screenshots - 
 ###### Home Screen
 ![Web application home screen](/images/home.jpg)
-![Web application home screen with labels](/images/home_input_outcomes.png)
+![Web application home screen with labels](/images/home_labeled.jpg)
