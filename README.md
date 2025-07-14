@@ -12,7 +12,7 @@
 ###### Home Screen Labeled
 <img src="images/home_labeled.jpg" alt="drawing" width="800" height="500" />
 
-#### Features - 
+#### - ✚ Features - 
 | Feature | Description |
 | ----------- | ----------- |
 | BERT | Sentiment analysis powered by BERT via WAtson NLP API |
