@@ -8,4 +8,11 @@
 #### - 📸 Screenshots - 
 ###### Home Screen
 ![Web application home screen](/images/home.jpg)
+###### Home Screen Labeled
 ![Web application home screen with labels](/images/home_labeled.jpg)
+
+#### Features - 
+| Feature | Description |
+| ----------- | ----------- |
+| RESTful | Title |
+| Error Handling     | Text |
