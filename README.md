@@ -7,9 +7,10 @@
 4. Typically the server is ran on **localhost:5000**, however a relevant link will populate. 
 #### - 📸 Screenshots - 
 ###### Home Screen
-![Web application home screen](/images/home.jpg)
+<img src="home.jpg" alt="drawing" width="600"/>
+
 ###### Home Screen Labeled
-![Web application home screen with labels](/images/home_labeled.jpg)
+<img src="home_labeled.jpg" alt="drawing" width="600"/>
 
 #### Features - 
 | Feature | Description |
