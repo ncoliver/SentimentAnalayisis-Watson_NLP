@@ -10,7 +10,7 @@
 <img src="images/home.jpg" alt="drawing" width="600"/>
 
 ###### Home Screen Labeled
-<img src="images/home_labeled.jpg" alt="drawing" width="600"/>
+<img src="images/home_labeled.jpg" alt="drawing" width="800" height="300" />
 
 #### Features - 
 | Feature | Description |
